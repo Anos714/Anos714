@@ -2,7 +2,7 @@
 
 I'm a B.Tech student and a passionate MERN Stack developer with a love for building beautiful and functional websites.
 
-- 🔭 I’m currently working on my Financial Management app called "Multer".
+- 🔭 I’m currently working on my MERN STACK BLOG app called "BitBlogs".
 - 🌱 I’m currently learning more about Express.js, MongoDB and Realtional Databases(MySQL, PostgreSQL).
 - 👯 I’m looking to collaborate on interesting open-source frontend/Backend projects.
 - 🤔 I’m looking for help with advanced state management in large applications.
