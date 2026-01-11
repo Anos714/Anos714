@@ -22,3 +22,6 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
