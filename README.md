@@ -24,13 +24,15 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2046%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +43,21 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   38.04 % 
-🌃 Evening                97 commits          ███████████████░░░░░░░░░░   59.51 % 
+🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+🌆 Daytime                62 commits          █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌃 Evening                99 commits          ███████████████░░░░░░░░░░   60.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Thursday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Sunday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Monday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Sunday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
 ```
 
 
@@ -94,5 +96,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 01:12:34 UTC
+ Last Updated on 12/01/2026 15:19:07 UTC
 <!--END_SECTION:waka-->
