@@ -24,15 +24,13 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2026
+> 🏆 38 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +41,21 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌃 Evening                96 commits          ███████████████░░░░░░░░░░   59.26 % 
+🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   38.04 % 
+🌃 Evening                97 commits          ███████████████░░░░░░░░░░   59.51 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Sunday                   43 commits          ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Monday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Thursday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Sunday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.99 % 
 ```
 
 
@@ -67,16 +65,16 @@ Sunday                   43 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 46 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Project                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +94,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2026 13:17:47 UTC
+ Last Updated on 12/01/2026 01:12:34 UTC
 <!--END_SECTION:waka-->
