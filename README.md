@@ -34,7 +34,6 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
  > 
 > 🏆 40 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
