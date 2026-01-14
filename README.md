@@ -24,16 +24,17 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2026
+> 🏆 42 Contributions in the Year 2026
  > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
@@ -42,21 +43,21 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-🌆 Daytime                62 commits          █████████░░░░░░░░░░░░░░░░   37.58 % 
-🌃 Evening                99 commits          ███████████████░░░░░░░░░░   60.00 % 
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+🌆 Daytime                62 commits          █████████░░░░░░░░░░░░░░░░   37.13 % 
+🌃 Evening                100 commits         ███████████████░░░░░░░░░░   59.88 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Saturday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Sunday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Monday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Sunday                   44 commits          ███████░░░░░░░░░░░░░░░░░░   26.35 % 
 ```
 
 
@@ -66,17 +67,18 @@ Sunday                   44 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 1 min         █████████████████████████   99.35 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+JavaScript               8 hrs 22 mins       █████████████████████████   99.52 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project                  5 hrs 3 mins        █████████████████████████   100.00 % 
+Project                  8 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +98,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2026 01:06:16 UTC
+ Last Updated on 14/01/2026 01:11:48 UTC
 <!--END_SECTION:waka-->
