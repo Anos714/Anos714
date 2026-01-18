@@ -24,7 +24,7 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue?style=flat)
 
@@ -32,7 +32,7 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,21 +43,21 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-🌆 Daytime                62 commits          █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌃 Evening                104 commits         ███████████████░░░░░░░░░░   60.47 % 
+🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+🌆 Daytime                62 commits          █████████░░░░░░░░░░░░░░░░   34.64 % 
+🌃 Evening                109 commits         ███████████████░░░░░░░░░░   60.89 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Wednesday                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Friday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Sunday                   44 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Monday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Wednesday                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Sunday                   44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
 ```
 
 
@@ -67,23 +67,23 @@ Sunday                   44 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               19 hrs 17 mins      █████████████████████████   99.52 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               22 hrs 17 mins      █████████████████████████   99.58 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project                  13 hrs 52 mins      ██████████████████░░░░░░░   71.54 % 
-react-redux              1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-employee                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-redux-toolkit            1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Project                  16 hrs 52 mins      ███████████████████░░░░░░   75.35 % 
+react-redux              1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+employee                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+redux-toolkit            1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 💻 Operating System: 
-Windows                  19 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +103,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 01:06:54 UTC
+ Last Updated on 18/01/2026 01:14:54 UTC
 <!--END_SECTION:waka-->
