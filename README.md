@@ -25,40 +25,40 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 90 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-🌆 Daytime                62 commits          ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-🌃 Evening                140 commits         █████████████████░░░░░░░░   66.35 % 
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+🌆 Daytime                62 commits          ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌃 Evening                140 commits         ████████████████░░░░░░░░░   65.73 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Wednesday                35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Sunday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Monday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Wednesday                35 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Saturday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Sunday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 ```
 
 
@@ -68,23 +68,24 @@ Sunday                   46 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               16 hrs              ████████████████████████░   94.62 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JavaScript               14 hrs 28 mins      █████████████████████░░░░   84.80 % 
+TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CodeVault                8 hrs 34 mins       █████████████░░░░░░░░░░░░   50.67 % 
-Project                  6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
-zustand                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-ProjectVault             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+CodeVault                10 hrs 10 mins      ███████████████░░░░░░░░░░   59.58 % 
+Project                  3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Frontend-Interview       1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+zustand                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+ProjectVault             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Windows                  16 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +105,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2026 01:07:38 UTC
+ Last Updated on 25/01/2026 01:16:53 UTC
 <!--END_SECTION:waka-->
