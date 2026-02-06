@@ -68,23 +68,24 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               6 hrs 10 mins       ███████████████████░░░░░░   75.22 % 
-TypeScript               1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-TSConfig                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+JavaScript               6 hrs 10 mins       ████████████████░░░░░░░░░   62.87 % 
+TypeScript               2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TSConfig                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Revision                 5 hrs 2 mins        ███████████████░░░░░░░░░░   61.39 % 
-TypeScript               1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-LeafNode                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-CodeVault                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Revision                 5 hrs 2 mins        █████████████░░░░░░░░░░░░   51.31 % 
+AdvanceAuth              1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+LeafNode                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+CodeVault                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  8 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +105,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 01:20:44 UTC
+ Last Updated on 06/02/2026 01:20:59 UTC
 <!--END_SECTION:waka-->
