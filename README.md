@@ -25,7 +25,7 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -68,24 +68,24 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               6 hrs 36 mins       ███████████████░░░░░░░░░░   61.25 % 
-TypeScript               3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-TSConfig                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript               4 hrs 45 mins       █████████████░░░░░░░░░░░░   53.27 % 
+TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.35 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TSConfig                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Revision                 5 hrs 21 mins       ████████████░░░░░░░░░░░░░   49.67 % 
-LeafNode                 2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-AdvanceAuth              1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-CodeVault                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Revision                 3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
+LeafNode                 2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+AdvanceAuth              1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+CodeVault                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,5 +105,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2026 01:56:44 UTC
+ Last Updated on 09/02/2026 01:26:14 UTC
 <!--END_SECTION:waka-->
