@@ -25,7 +25,7 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,21 +44,21 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-🌆 Daytime                64 commits          ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-🌃 Evening                168 commits         █████████████████░░░░░░░░   68.85 % 
+🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+🌆 Daytime                64 commits          ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌃 Evening                168 commits         █████████████████░░░░░░░░   68.02 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   53 commits          █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Tuesday                  32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Sunday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Monday                   53 commits          █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Tuesday                  32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Sunday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 ```
 
 
@@ -68,32 +68,31 @@ Sunday                   48 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 45 mins       ██████████████████░░░░░░░   71.00 % 
-JavaScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-TSConfig                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TypeScript               7 hrs 28 mins       █████████████████░░░░░░░░   69.71 % 
+JavaScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Revision                 9 hrs 1 min         ██████████████████░░░░░░░   73.24 % 
-LeafNode                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-AdvanceAuth              1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Revision                 9 hrs 1 min         █████████████████████░░░░   84.24 % 
+LeafNode                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 
 💻 Operating System: 
-Windows                  12 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-CSS                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
+CSS                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -103,5 +102,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 01:26:47 UTC
+ Last Updated on 13/02/2026 01:28:50 UTC
 <!--END_SECTION:waka-->
