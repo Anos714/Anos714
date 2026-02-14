@@ -33,32 +33,32 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2026
+> 🏆 125 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-🌆 Daytime                64 commits          ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-🌃 Evening                168 commits         █████████████████░░░░░░░░   68.02 % 
+🌞 Morning                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌆 Daytime                64 commits          ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+🌃 Evening                170 commits         █████████████████░░░░░░░░   68.27 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   53 commits          █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Tuesday                  32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Sunday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Monday                   53 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Tuesday                  32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Saturday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Sunday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
 ```
 
 
@@ -88,11 +88,11 @@ Windows                  10 hrs 43 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
-CSS                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JavaScript               17 repos            ███████████░░░░░░░░░░░░░░   44.74 % 
+CSS                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
@@ -102,5 +102,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 01:28:50 UTC
+ Last Updated on 14/02/2026 01:21:03 UTC
 <!--END_SECTION:waka-->
