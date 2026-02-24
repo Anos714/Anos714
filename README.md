@@ -25,7 +25,7 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 #### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -68,24 +68,24 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               17 hrs 26 mins      ████████████████████████░   95.17 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               13 hrs 40 mins      ████████████████████████░   94.05 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Konnect                  17 hrs 4 mins       ███████████████████████░░   93.12 % 
-Practise                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-blog-backend             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-clerk-react              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Clerk-Practise           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Konnect                  13 hrs 16 mins      ███████████████████████░░   91.33 % 
+Practise                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+blog-backend             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+clerk-react              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Clerk-Practise           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Linux                    18 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,5 +105,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 01:24:22 UTC
+ Last Updated on 24/02/2026 01:23:30 UTC
 <!--END_SECTION:waka-->
