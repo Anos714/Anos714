@@ -68,23 +68,23 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 49 mins       ████████████████░░░░░░░░░   65.58 % 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-TSConfig                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+TypeScript               1 hr 1 min          ██████████░░░░░░░░░░░░░░░   38.58 % 
+Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+JSON                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+TSConfig                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Konnect                  3 hrs 58 mins       █████████████████░░░░░░░░   68.18 % 
-LeafNode                 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-portfolio                40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-resend-practise          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+LeafNode                 1 hr 36 mins        ███████████████░░░░░░░░░░   60.88 % 
+portfolio                48 mins             ████████░░░░░░░░░░░░░░░░░   30.97 % 
+resend-practise          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Konnect                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +104,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2026 01:22:56 UTC
+ Last Updated on 06/03/2026 01:25:19 UTC
 <!--END_SECTION:waka-->
