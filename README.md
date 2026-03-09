@@ -68,22 +68,21 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               49 mins             █████████████░░░░░░░░░░░░   52.49 % 
-Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TypeScript               49 mins             ███████████████░░░░░░░░░░   60.63 % 
+Markdown                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                48 mins             █████████████░░░░░░░░░░░░   52.20 % 
-LeafNode                 32 mins             █████████░░░░░░░░░░░░░░░░   34.38 % 
-resend-practise          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+portfolio                48 mins             ███████████████░░░░░░░░░░   60.29 % 
+LeafNode                 32 mins             ██████████░░░░░░░░░░░░░░░   39.71 % 
 
 💻 Operating System: 
-Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +102,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 01:23:56 UTC
+ Last Updated on 09/03/2026 01:23:37 UTC
 <!--END_SECTION:waka-->
