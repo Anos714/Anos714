@@ -68,21 +68,21 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               49 mins             ███████████████░░░░░░░░░░   60.63 % 
-Markdown                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Markdown                 19 mins             ████████████░░░░░░░░░░░░░   49.89 % 
+TypeScript               16 mins             ██████████░░░░░░░░░░░░░░░   41.95 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                48 mins             ███████████████░░░░░░░░░░   60.29 % 
-LeafNode                 32 mins             ██████████░░░░░░░░░░░░░░░   39.71 % 
+LeafNode                 32 mins             ████████████████████░░░░░   80.90 % 
+portfolio                7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 
 💻 Operating System: 
-Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
+Linux                    39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +102,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 01:18:21 UTC
+ Last Updated on 11/03/2026 01:18:22 UTC
 <!--END_SECTION:waka-->
