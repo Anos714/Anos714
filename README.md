@@ -68,21 +68,17 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 19 mins             ████████████░░░░░░░░░░░░░   49.89 % 
-TypeScript               16 mins             ██████████░░░░░░░░░░░░░░░   41.95 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JSON                     0 secs              ██████████████████░░░░░░░   70.45 % 
+TSConfig                 0 secs              ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LeafNode                 32 mins             ████████████████████░░░░░   80.90 % 
-portfolio                7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+oauth                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +98,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 01:18:53 UTC
+ Last Updated on 13/03/2026 01:22:24 UTC
 <!--END_SECTION:waka-->
