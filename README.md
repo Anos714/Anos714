@@ -68,17 +68,23 @@ Sunday                   49 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     0 secs              ██████████████████░░░░░░░   70.45 % 
-TSConfig                 0 secs              ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+TypeScript               2 mins              ███████████████░░░░░░░░░░   59.32 % 
+Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-oauth                    0 secs              █████████████████████████   100.00 % 
+Konnect                  2 mins              ███████████████░░░░░░░░░░   59.32 % 
+payload-cms              0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+oauth                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+backend-cms              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,5 +104,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2026 01:20:28 UTC
+ Last Updated on 15/03/2026 01:45:46 UTC
 <!--END_SECTION:waka-->
