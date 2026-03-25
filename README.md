@@ -33,7 +33,7 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2026
+> 🏆 152 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,21 +44,21 @@ I'm a B.Tech student and a passionate MERN Stack developer with a love for build
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-🌆 Daytime                70 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-🌃 Evening                175 commits         ████████████████░░░░░░░░░   64.10 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+🌆 Daytime                70 commits          ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+🌃 Evening                176 commits         ████████████████░░░░░░░░░   64.23 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Tuesday                  33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Wednesday                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Wednesday                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 ```
 
 
@@ -68,20 +68,21 @@ Sunday                   50 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ██████████████████████░░░   86.22 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+TypeScript               2 hrs 28 mins       ████████████████████░░░░░   80.48 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SmartBillr               2 hrs 52 mins       █████████████████████████   100.00 % 
+SmartBillr               2 hrs 52 mins       ███████████████████████░░   93.35 % 
+Konnect                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 💻 Operating System: 
-Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,5 +102,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2026 01:21:57 UTC
+ Last Updated on 25/03/2026 01:26:35 UTC
 <!--END_SECTION:waka-->
