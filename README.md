@@ -1,106 +1,132 @@
-### Hi there 👋, I'm Rahul!
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">B.Tech Student | MERN Stack Developer | TypeScript Focused</h3>
 
-I'm a B.Tech student and a passionate MERN Stack developer with a love for building beautiful and functional websites.
+---
 
-- 🔭 I’m currently working on my MERN STACK BLOG app called "BitBlogs" and on my Code Snippet storage app "CodeVault".
-- 🌱 I’m currently learning more about Express.js, MongoDB and Realtional Databases(MySQL, PostgreSQL).
-- 👯 I’m looking to collaborate on interesting open-source frontend/Backend projects.
-- 🤔 I’m looking for help with advanced state management in large applications.
-- 📫 How to reach me: [sainrahul374@gmail.com](mailto:sainrahul374@gmail.com)
-- 😄 Pronouns: He/Him
+## 🚀 About Me
 
-#### My Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I’m a full-stack developer who builds scalable, real-world applications using the MERN stack with TypeScript.
 
-#### 📊 Weekly Development Breakdown
+I focus on **clean architecture, performance, and backend strength** — not just UI.  
+Most people build projects. I focus on understanding and engineering them.
+<h3 align="center">⚔️ Keep Leveling Up</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d6a3hraW9xdnZ4eHp1cWJzYmZ5cWhtMjYydzUyNzUxNDR3NTBiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="500" />
+</p>
+
+---
+
+## 🔭 Current Work
+
+- 🚀 Building **SmartBillr** — an AI-powered invoice generator  
+- 🎨 Actively improving **UI/UX design sense & product design skills**  
+- 📚 Learning **System Design & Advanced Backend Concepts**  
+- 🧠 Practicing **DSA for strong problem-solving**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hero_UI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Testing
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bruno-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Deployment
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anos714&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anos714&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anos714&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2049%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 154 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-🌆 Daytime                70 commits          ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-🌃 Evening                178 commits         ████████████████░░░░░░░░░   64.49 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       ██████████████████░░░░░░░   71.87 % 
-Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-SmartBillr               2 hrs 52 mins       █████████████████████░░░░   83.08 % 
-Konnect                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-
-💻 Operating System: 
-Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            ███████████░░░░░░░░░░░░░░   42.50 % 
-CSS                      9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
-
-
- Last Updated on 26/03/2026 01:45:32 UTC
 <!--END_SECTION:waka-->
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: **sainrahul374@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/rahulxcode/**
+- 🌐 Twitter(X): **https://x.com/RahulSain714**
+
+---
+
+## ⚡ Mindset
+
+> I don’t aim to just “complete projects”.  
+> I aim to understand systems deeply enough to build them better.
