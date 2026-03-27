@@ -10,12 +10,6 @@ I’m a full-stack developer who builds scalable, real-world applications using 
 I focus on **clean architecture, performance, and backend strength** — not just UI.  
 Most people build projects. I focus on understanding and engineering them.
 
-<h3 align="center">⚔️ Keep Leveling Up</h3>
-
-<p align="center">
-  <img src="https://pin.it/5eeg5fIuo" width="500" />
-</p>
-
 ---
 
 ## 🔭 Current Work
