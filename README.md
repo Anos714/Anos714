@@ -9,6 +9,7 @@ I’m a full-stack developer who builds scalable, real-world applications using 
 
 I focus on **clean architecture, performance, and backend strength** — not just UI.  
 Most people build projects. I focus on understanding and engineering them.
+
 <h3 align="center">⚔️ Keep Leveling Up</h3>
 
 <p align="center">
@@ -19,16 +20,17 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 🔭 Current Work
 
-- 🚀 Building **SmartBillr** — an AI-powered invoice generator  
-- 🎨 Actively improving **UI/UX design sense & product design skills**  
-- 📚 Learning **System Design & Advanced Backend Concepts**  
-- 🧠 Practicing **DSA for strong problem-solving**
+- 🚀 Building **SmartBillr** — an AI-powered invoice generator
+- 🎨 Improving **UI/UX & product design sense**
+- 📚 Learning **System Design & Advanced Backend**
+- 🧠 Practicing **DSA**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,6 +50,7 @@ Most people build projects. I focus on understanding and engineering them.
 ---
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -57,6 +60,7 @@ Most people build projects. I focus on understanding and engineering them.
 ---
 
 ### 🗄️ Database
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -67,6 +71,7 @@ Most people build projects. I focus on understanding and engineering them.
 ---
 
 ### 🧪 Testing
+
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge"/>
@@ -76,6 +81,7 @@ Most people build projects. I focus on understanding and engineering them.
 ---
 
 ### 🧰 Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -88,6 +94,7 @@ Most people build projects. I focus on understanding and engineering them.
 ---
 
 ### 🚀 Deployment
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
@@ -101,98 +108,13 @@ Most people build projects. I focus on understanding and engineering them.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anos714&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anos714&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anos714&show_icons=true&theme=tokyonight&v=1" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Anos714&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anos714&layout=compact&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anos714&layout=compact&theme=tokyonight&v=1" />
 </p>
-
----
-
-## 📈 Activity
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2012%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 158 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-🌆 Daytime                70 commits          ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌃 Evening                181 commits         ████████████████░░░░░░░░░   64.87 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Thursday                 44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Sunday                   50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 hr 25 mins        ██████████████████░░░░░░░   70.59 % 
-Markdown                 34 mins             ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-SmartBillr               1 hr 24 mins        █████████████████░░░░░░░░   69.59 % 
-Konnect                  35 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Practise                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-💻 Operating System: 
-Linux                    2 hrs               █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            ██████████░░░░░░░░░░░░░░░   41.46 % 
-CSS                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
-
-
- Last Updated on 27/03/2026 01:46:03 UTC
-<!--END_SECTION:waka-->
 
 ---
 
