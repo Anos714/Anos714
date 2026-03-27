@@ -13,7 +13,7 @@ Most people build projects. I focus on understanding and engineering them.
 <h3 align="center">⚔️ Keep Leveling Up</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d6a3hraW9xdnZ4eHp1cWJzYmZ5cWhtMjYydzUyNzUxNDR3NTBiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif" width="500" />
+  <img src="https://pin.it/5eeg5fIuo" width="500" />
 </p>
 
 ---
@@ -108,15 +108,7 @@ Most people build projects. I focus on understanding and engineering them.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anos714&show_icons=true&theme=tokyonight&v=1" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Anos714&theme=tokyonight&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anos714&layout=compact&theme=tokyonight&v=1" />
 </p>
 
 ---
