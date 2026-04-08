@@ -119,3 +119,6 @@ Most people build projects. I focus on understanding and engineering them.
 
 > I don’t aim to just “complete projects”.  
 > I aim to understand systems deeply enough to build them better.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
