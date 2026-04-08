@@ -120,7 +120,9 @@ Most people build projects. I focus on understanding and engineering them.
 > I don’t aim to just “complete projects”.  
 > I aim to understand systems deeply enough to build them better.
 
-## 📊 My Coding Stats Stats
+
+
+## 📊 My Coding Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2020%20mins-blue?style=flat)
 
