@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
@@ -132,7 +132,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 207 Contributions in the Year 2026
+> 🏆 213 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -143,21 +143,21 @@ Most people build projects. I focus on understanding and engineering them.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-🌆 Daytime                72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-🌃 Evening                224 commits         █████████████████░░░░░░░░   68.29 % 
+🌞 Morning                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+🌆 Daytime                72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+🌃 Evening                230 commits         █████████████████░░░░░░░░   68.86 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Wednesday                54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Thursday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Sunday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Thursday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Friday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Sunday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 ```
 
 
@@ -167,20 +167,19 @@ Sunday                   54 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 46 mins       ██████████████░░░░░░░░░░░   56.11 % 
-Java                     3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-C                        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-CSS                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+TypeScript               6 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
+Java                     5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
+CSS                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+C                        1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
 VS Code                  15 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Practise                 10 hrs 1 min        ████████████████░░░░░░░░░   64.14 % 
-DSA_Practise             3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Practise                 8 hrs 37 mins       ██████████████░░░░░░░░░░░   55.17 % 
+DSA_Practise             5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.74 % 
 practical_iss            1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Konnect                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
 Linux                    15 hrs 38 mins      █████████████████████████   100.00 % 
@@ -203,5 +202,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2026 01:50:20 UTC
+ Last Updated on 16/04/2026 01:58:20 UTC
 <!--END_SECTION:waka-->
