@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,24 +167,24 @@ Sunday                   59 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 50 mins      ██████████████████░░░░░░░   71.39 % 
-Java                     4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+TypeScript               12 hrs 34 mins      █████████████████░░░░░░░░   68.10 % 
+Java                     4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 21 mins      █████████████████████░░░░   84.42 % 
-VS Code                  3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Cursor                   15 hrs 12 mins      █████████████████████░░░░   82.36 % 
+VS Code                  3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
 
 🐱‍💻 Projects: 
-SmartBillr               8 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
-portfolio                5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-DSA_Practise             4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Practise                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+SmartBillr               7 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
+portfolio                5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
+DSA_Practise             5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Practise                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Linux                    19 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,5 +204,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 17:23:12 UTC
+ Last Updated on 03/05/2026 02:07:48 UTC
 <!--END_SECTION:waka-->
