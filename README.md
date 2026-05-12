@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -132,7 +132,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 298 Contributions in the Year 2026
+> 🏆 299 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -143,21 +143,21 @@ Most people build projects. I focus on understanding and engineering them.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-🌆 Daytime                103 commits         ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌃 Evening                281 commits         █████████████████░░░░░░░░   66.75 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+🌆 Daytime                103 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+🌃 Evening                281 commits         █████████████████░░░░░░░░   66.59 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Wednesday                83 commits          █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Sunday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Monday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Wednesday                83 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Thursday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Sunday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 ```
 
 
@@ -205,5 +205,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2026 02:29:34 UTC
+ Last Updated on 12/05/2026 02:14:45 UTC
 <!--END_SECTION:waka-->
