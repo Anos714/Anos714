@@ -167,23 +167,21 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Other                    2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-TypeScript               1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Bash                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Python                   2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Other                    2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+TypeScript               1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Bash                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 5 mins       █████████████████████████   100.00 % 
+Cursor                   9 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Company_Assignment       8 hrs 57 mins       ██████████████████████░░░   88.79 % 
-portfolio                1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-SmartBillr               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-DSA_Practise             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Company_Assignment       8 hrs 25 mins       ██████████████████████░░░   89.04 % 
+portfolio                1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 
 💻 Operating System: 
-Linux                    10 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,5 +201,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 02:36:44 UTC
+ Last Updated on 21/05/2026 02:37:47 UTC
 <!--END_SECTION:waka-->
