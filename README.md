@@ -124,8 +124,6 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%201%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -167,21 +165,21 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Other                    2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-TypeScript               1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Bash                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+TypeScript               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Python                   1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Bash                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 28 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Company_Assignment       8 hrs 25 mins       ██████████████████████░░░   89.04 % 
-portfolio                1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Company_Assignment       3 hrs 56 mins       ████████████████████░░░░░   78.40 % 
+portfolio                1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 
 💻 Operating System: 
-Linux                    9 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -201,5 +199,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 02:37:47 UTC
+ Last Updated on 22/05/2026 02:39:31 UTC
 <!--END_SECTION:waka-->
