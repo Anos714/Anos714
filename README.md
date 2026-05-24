@@ -124,8 +124,6 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%204%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -167,21 +165,19 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   33.01 % 
-Python                   1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Bash                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TypeScript               51 mins             ███████████████████████░░   91.83 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 1 min         █████████████████████████   100.00 % 
+Cursor                   55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Company_Assignment       3 hrs 56 mins       ████████████████████░░░░░   78.40 % 
-portfolio                1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+portfolio                54 mins             █████████████████████████   98.06 % 
+Company_Assignment       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -201,5 +197,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 02:25:23 UTC
+ Last Updated on 24/05/2026 02:34:59 UTC
 <!--END_SECTION:waka-->
