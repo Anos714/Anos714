@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,23 +167,23 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               45 mins             █████████████░░░░░░░░░░░░   53.83 % 
-SQL                      23 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Java                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               25 mins             ██████████░░░░░░░░░░░░░░░   39.74 % 
+SQL                      23 mins             █████████░░░░░░░░░░░░░░░░   36.23 % 
+Java                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  47 mins             ██████████████░░░░░░░░░░░   56.35 % 
-Cursor                   36 mins             ███████████░░░░░░░░░░░░░░   43.65 % 
+VS Code                  47 mins             ██████████████████░░░░░░░   73.54 % 
+Cursor                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
 
 🐱‍💻 Projects: 
-portfolio                36 mins             ███████████░░░░░░░░░░░░░░   43.65 % 
-PostgreSQL_learning      23 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-DSA_Practise             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Next_SangamSir           10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+PostgreSQL_learning      23 mins             █████████░░░░░░░░░░░░░░░░   36.23 % 
+portfolio                17 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+DSA_Practise             13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Next_SangamSir           10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,5 +203,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 02:42:03 UTC
+ Last Updated on 06/06/2026 02:29:47 UTC
 <!--END_SECTION:waka-->
