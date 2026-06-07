@@ -124,68 +124,20 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 346 Contributions in the Year 2026
+> 🏆 348 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                114 commits         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-🌃 Evening                315 commits         █████████████████░░░░░░░░   66.32 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Wednesday                96 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Thursday                 77 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Saturday                 46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Sunday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               25 mins             ██████████░░░░░░░░░░░░░░░   39.74 % 
-SQL                      23 mins             █████████░░░░░░░░░░░░░░░░   36.23 % 
-Java                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-🔥 Editors: 
-VS Code                  47 mins             ██████████████████░░░░░░░   73.54 % 
-Cursor                   17 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-
-🐱‍💻 Projects: 
-PostgreSQL_learning      23 mins             █████████░░░░░░░░░░░░░░░░   36.23 % 
-portfolio                17 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-DSA_Practise             13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Next_SangamSir           10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-
-💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -203,5 +155,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 02:29:47 UTC
+ Last Updated on 07/06/2026 02:48:07 UTC
 <!--END_SECTION:waka-->
