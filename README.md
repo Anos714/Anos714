@@ -167,17 +167,16 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 min               ██████████████░░░░░░░░░░░   55.68 % 
-TypeScript               1 min               ███████████░░░░░░░░░░░░░░   44.32 % 
+TypeScript               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   3 mins              █████████████████████████   100.00 % 
+Cursor                   1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                3 mins              █████████████████████████   100.00 % 
+portfolio                1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -197,5 +196,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 02:42:09 UTC
+ Last Updated on 11/06/2026 02:52:04 UTC
 <!--END_SECTION:waka-->
