@@ -167,16 +167,16 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               49 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lecture_1                49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -196,5 +196,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 02:52:36 UTC
+ Last Updated on 15/06/2026 02:57:22 UTC
 <!--END_SECTION:waka-->
