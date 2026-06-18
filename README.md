@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -167,17 +167,21 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               52 mins             █████████████████████████   100.00 % 
+TypeScript               2 hrs 52 mins       ████████████████████████░   97.86 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lecture_1                49 mins             ████████████████████████░   95.17 % 
-testing(drizzle&neon)    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+lecture_1                1 hr 50 mins        ████████████████░░░░░░░░░   62.62 % 
+testing(drizzle&neon)    1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.38 % 
 
 💻 Operating System: 
-Linux                    52 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -197,5 +201,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 02:55:10 UTC
+ Last Updated on 18/06/2026 02:50:26 UTC
 <!--END_SECTION:waka-->
