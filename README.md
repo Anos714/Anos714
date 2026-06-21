@@ -167,21 +167,23 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 52 mins       ████████████████████████░   97.86 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               2 hrs 56 mins       ████████████████████████░   97.91 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 56 mins       ████████████████████████░   97.73 % 
+Antigravity IDE          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🐱‍💻 Projects: 
-lecture_1                1 hr 50 mins        ████████████████░░░░░░░░░   62.62 % 
-testing(drizzle&neon)    1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   37.38 % 
+lecture_1                1 hr 50 mins        ███████████████░░░░░░░░░░   61.20 % 
+testing(drizzle&neon)    1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.53 % 
+ThumbForge               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -201,5 +203,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 02:39:50 UTC
+ Last Updated on 21/06/2026 02:56:04 UTC
 <!--END_SECTION:waka-->
