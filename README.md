@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -167,23 +167,22 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 56 mins       ████████████████████████░   97.91 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               2 hrs 10 mins       ████████████████████████░   97.19 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       ████████████████████████░   97.73 % 
-Antigravity IDE          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Antigravity IDE          2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lecture_1                1 hr 50 mins        ███████████████░░░░░░░░░░   61.20 % 
-testing(drizzle&neon)    1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.53 % 
-ThumbForge               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+testing(drizzle&neon)    1 hr 5 mins         ████████████░░░░░░░░░░░░░   48.99 % 
+lecture_1                1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.97 % 
+ThumbForge               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-Linux                    3 hrs               █████████████████████████   100.00 % 
+Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,5 +202,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 02:56:04 UTC
+ Last Updated on 22/06/2026 02:58:37 UTC
 <!--END_SECTION:waka-->
