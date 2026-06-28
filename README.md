@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,20 +167,21 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 hrs 37 mins      ███████████████████████░░   93.49 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               13 hrs 56 mins      ███████████████████████░░   91.81 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 30 mins      █████████████████████████   100.00 % 
+Antigravity IDE          15 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ThumbForge               13 hrs 30 mins      █████████████████████████   100.00 % 
+ThumbForge               13 hrs 26 mins      ██████████████████████░░░   88.46 % 
+BullMQ_testing           1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 💻 Operating System: 
-Linux                    13 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -200,5 +201,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 02:31:48 UTC
+ Last Updated on 28/06/2026 02:44:22 UTC
 <!--END_SECTION:waka-->
