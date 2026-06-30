@@ -167,21 +167,21 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 56 mins      ███████████████████████░░   91.81 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               9 hrs 44 mins       ███████████████████████░░   92.45 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 11 mins      █████████████████████████   100.00 % 
+Antigravity IDE          10 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ThumbForge               13 hrs 26 mins      ██████████████████████░░░   88.46 % 
-BullMQ_testing           1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+ThumbForge               8 hrs 47 mins       █████████████████████░░░░   83.38 % 
+BullMQ_testing           1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 
 💻 Operating System: 
-Linux                    15 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -201,5 +201,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 02:45:00 UTC
+ Last Updated on 30/06/2026 02:39:14 UTC
 <!--END_SECTION:waka-->
