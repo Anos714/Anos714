@@ -167,21 +167,22 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 44 mins       ███████████████████████░░   92.45 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               5 hrs 29 mins       ██████████████████████░░░   88.48 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 32 mins      █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ThumbForge               8 hrs 47 mins       █████████████████████░░░░   83.38 % 
-BullMQ_testing           1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+ThumbForge               3 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.67 % 
+BullMQ_testing           1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+redis_practise           1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
 
 💻 Operating System: 
-Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -201,5 +202,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 02:39:14 UTC
+ Last Updated on 01/07/2026 02:45:14 UTC
 <!--END_SECTION:waka-->
