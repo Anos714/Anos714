@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,25 +167,25 @@ Sunday                   66 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 32 mins       ████████████████████░░░░░   80.88 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Java                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+TypeScript               6 hrs 18 mins       ████████████████████░░░░░   80.36 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Java                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 44 mins       ████████████████████████░   95.70 % 
-VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Antigravity IDE          7 hrs 30 mins       ████████████████████████░   95.57 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🐱‍💻 Projects: 
-redis_practise           4 hrs 8 mins        █████████████░░░░░░░░░░░░   51.20 % 
-ThumbForge               1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-BullMQ_testing           1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-DSA_Practise             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-PostgreSQL_learning      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+redis_practise           4 hrs 8 mins        █████████████░░░░░░░░░░░░   52.72 % 
+BullMQ_testing           1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+ThumbForge               1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+DSA_Practise             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+PostgreSQL_learning      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    8 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,5 +205,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 02:10:15 UTC
+ Last Updated on 04/07/2026 02:08:21 UTC
 <!--END_SECTION:waka-->
