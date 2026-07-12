@@ -124,7 +124,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 ## 📊 My Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,26 +167,26 @@ Sunday                   69 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 hrs 4 mins       ██████████████████░░░░░░░   71.95 % 
-Text                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TypeScript               11 hrs 57 mins      ██████████████████░░░░░░░   71.77 % 
+Text                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 39 mins      █████████████████░░░░░░░░   69.52 % 
-VS Code                  2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Cursor                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Antigravity IDE          11 hrs 39 mins      █████████████████░░░░░░░░   69.96 % 
+VS Code                  2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Cursor                   2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 
 🐱‍💻 Projects: 
-xolo                     11 hrs 31 mins      █████████████████░░░░░░░░   68.65 % 
-portfolio                2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-git_learning             1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Preparation              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-ThumbForge               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+xolo                     11 hrs 31 mins      █████████████████░░░░░░░░   69.09 % 
+portfolio                2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+git_learning             1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Preparation              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+ThumbForge               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Linux                    16 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,5 +206,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 01:56:07 UTC
+ Last Updated on 12/07/2026 01:59:25 UTC
 <!--END_SECTION:waka-->
