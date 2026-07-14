@@ -167,26 +167,26 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 17 mins      ██████████████████░░░░░░░   71.78 % 
-Text                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               11 hrs 17 mins      ████████████████████░░░░░   81.56 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 39 mins      ███████████████████░░░░░░   74.13 % 
-VS Code                  2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Cursor                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Antigravity IDE          11 hrs 39 mins      █████████████████████░░░░   84.22 % 
+Cursor                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🐱‍💻 Projects: 
-xolo                     11 hrs 31 mins      ██████████████████░░░░░░░   73.20 % 
-git_learning             1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-portfolio                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Preparation              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-ThumbForge               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+xolo                     11 hrs 31 mins      █████████████████████░░░░   83.16 % 
+portfolio                1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Preparation              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+ThumbForge               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+redis_practise           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    15 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,5 +206,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 02:01:25 UTC
+ Last Updated on 14/07/2026 01:47:53 UTC
 <!--END_SECTION:waka-->
