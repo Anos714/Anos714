@@ -132,7 +132,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 377 Contributions in the Year 2026
+> 🏆 380 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -143,21 +143,21 @@ Most people build projects. I focus on understanding and engineering them.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                124 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-🌃 Evening                336 commits         ████████████████░░░░░░░░░   64.37 % 
+🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Daytime                124 commits         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+🌃 Evening                337 commits         ████████████████░░░░░░░░░   64.19 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Wednesday                104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Thursday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Friday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Saturday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Sunday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Wednesday                104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Thursday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Friday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Saturday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Sunday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 ```
 
 
@@ -167,26 +167,23 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 17 mins      ████████████████████░░░░░   81.56 % 
-Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TypeScript               9 hrs 48 mins       ████████████████████░░░░░   80.13 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 39 mins      █████████████████████░░░░   84.22 % 
-Cursor                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Antigravity IDE          11 hrs 31 mins      ████████████████████████░   94.13 % 
+VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-xolo                     11 hrs 31 mins      █████████████████████░░░░   83.16 % 
-portfolio                1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Preparation              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-ThumbForge               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-redis_practise           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+xolo                     11 hrs 31 mins      ████████████████████████░   94.13 % 
+Preparation              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Java_Basics              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    13 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,5 +203,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2026 01:47:53 UTC
+ Last Updated on 15/07/2026 01:44:33 UTC
 <!--END_SECTION:waka-->
