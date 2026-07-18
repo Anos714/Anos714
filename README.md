@@ -132,7 +132,7 @@ Most people build projects. I focus on understanding and engineering them.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 399 Contributions in the Year 2026
+> 🏆 404 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -143,21 +143,21 @@ Most people build projects. I focus on understanding and engineering them.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-🌆 Daytime                134 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-🌃 Evening                339 commits         ████████████████░░░░░░░░░   62.32 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+🌞 Morning                74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+🌆 Daytime                134 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+🌃 Evening                339 commits         ███████████████░░░░░░░░░░   61.75 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Wednesday                104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Thursday                 102 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Friday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Saturday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Sunday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Wednesday                104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Thursday                 102 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Friday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Saturday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Sunday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 
 
@@ -167,22 +167,20 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 55 mins       █████████████████████░░░░   85.02 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               4 hrs 22 mins       ████████████████████████░   95.17 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 36 mins       ███████████████████████░░   92.31 % 
-VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Antigravity IDE          4 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-xolo                     8 hrs 36 mins       ███████████████████████░░   92.31 % 
-Preparation              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+xolo                     4 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -202,5 +200,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 01:58:04 UTC
+ Last Updated on 18/07/2026 01:48:02 UTC
 <!--END_SECTION:waka-->
