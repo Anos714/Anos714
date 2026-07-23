@@ -132,32 +132,32 @@ Most people build projects. I focus on understanding and engineering them.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 412 Contributions in the Year 2026
+> 🏆 422 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-🌆 Daytime                135 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-🌃 Evening                341 commits         ███████████████░░░░░░░░░░   61.22 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌆 Daytime                145 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌃 Evening                367 commits         ███████████████░░░░░░░░░░   60.07 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Wednesday                104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Thursday                 102 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Friday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Saturday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Wednesday                118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Thursday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Sunday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 ```
 
 
@@ -183,10 +183,10 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.17 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -196,5 +196,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 01:55:13 UTC
+ Last Updated on 23/07/2026 02:03:00 UTC
 <!--END_SECTION:waka-->
