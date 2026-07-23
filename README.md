@@ -1,200 +1,48 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">B.Tech Student | MERN Stack Developer | TypeScript Focused</h3>
+<h1 align="center">Rahul Sain</h1>
 
----
-
-## 🚀 About Me
-
-I’m a full-stack developer who builds scalable, real-world applications using the MERN stack with TypeScript.
-
-I focus on **clean architecture, performance, and backend strength** — not just UI.  
-Most people build projects. I focus on understanding and engineering them.
-
----
-
-## 🔭 Current Work
-
-- 🚀 Building **SmartBillr** — an AI-powered invoice generator
-- 🎨 Improving **UI/UX & product design sense**
-- 📚 Learning **System Design & Advanced Backend**
-- 🧠 Practicing **DSA**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hero_UI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge"/>
-</p>
-
----
-
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
----
-
-### 🧪 Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge"/>
-</p>
-
----
-
-### 🧰 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bruno-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+<p align="center">Full Stack Developer building AI-powered products and automation systems.</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anos714&theme=tokyonight&v=1" />
+  <a href="https://linkedin.com/in/rahulxcode">LinkedIn</a>
+  •
+  <a href="https://x.com/RahulSain714">Twitter</a>
+  •
+  <a href="https://github.com/Anos714">GitHub</a>
+  •
+  <a href="mailto:sainrahul374@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+### 🔷 my stack
 
-- 📫 Email: **sainrahul374@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/rahulxcode/**
-- 🌐 Twitter(X): **https://x.com/RahulSain714**
+typescript · javascript · java · react · next.js · node.js · express · bun · postgresql · mongodb · redis · drizzle · docker · tailwind · ai apis · rag
 
 ---
 
-## ⚡ Mindset
+### 🔷 current work
 
-> I don’t aim to just “complete projects”.  
-> I aim to understand systems deeply enough to build them better.
+**[Xcel](https://github.com/Anos714/Xcel)** — AI-powered X (Twitter) automation platform for generating, scheduling, and managing content workflows.
 
+---
 
+### 🔷 what i focus on
 
-## 📊 My Coding Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2015%20mins-blue?style=flat)
+I like building products from zero.
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+From designing database schemas and backend architecture to deploying and improving systems, I enjoy understanding every layer of the product.
 
-**🐱 My GitHub Data** 
+Currently exploring:
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 422 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+- scalable backend systems
+- system design
+- AI engineering
+- developer tooling
 
-```text
-🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-🌆 Daytime                145 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌃 Evening                367 commits         ███████████████░░░░░░░░░░   60.07 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-```
-📅 **I'm Most Productive on Thursday** 
+---
 
-```text
-Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Wednesday                118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Thursday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Friday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Saturday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Sunday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-```
+### 🔷 engineering mindset
 
+Build → Ship → Learn → Improve
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.17 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Anos714/Anos714/main/assets/bar_graph.png)
-
-
- Last Updated on 23/07/2026 02:03:00 UTC
-<!--END_SECTION:waka-->
+I care less about using the newest technology and more about building things that are reliable, useful and enjoyable to use.
