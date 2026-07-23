@@ -24,6 +24,8 @@ typescript · javascript · java · react · next.js · node.js · express · bu
 
 **[Xcel](https://github.com/Anos714/Xcel)** — AI-powered X (Twitter) automation platform for generating, scheduling, and managing content workflows.
 
+**[Konnect](https://github.com/Anos714/Konnect)** — Real-time language learning platform with chat, video communication, and interactive learning experiences.
+
 ---
 
 ### 🔷 what i focus on
