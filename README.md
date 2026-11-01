@@ -4,7 +4,7 @@
 
 I build production-grade SaaS with clean architecture and type-safety.
 
-Portfolio: **https://rahulxcode.vercel.app/** · [LinkedIn](https://www.linkedin.com/in/rahulxcode/) · [X](https://x.com/RahulSain714) · sainrahul374@gmail.com
+Portfolio: **https://rahulxcode.vercel.app/**  · [LinkedIn](https://www.linkedin.com/in/rahulxcode/)  · [X](https://x.com/RahulSain714)  · [Buy Me A Coffee](buymeacoffee.com/anos714)  sainrahul374@gmail.com
 
 ---
 
